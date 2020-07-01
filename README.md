@@ -55,5 +55,6 @@
 
 ## What I experienced
 
-​	I was amazed by the energy and passion of all three instructors, but mainly David J. Malan. He did an outstanding job explaining all the intricate details hiding behind the scenes of programming. It's a real great place to start if you are into Computer Science and software engineering
+​	I was amazed by the energy and passion of all three instructors, but mainly David J. Malan. He did an outstanding job explaining all the intricate details hiding behind the scenes of programming. It's a real great place to start if you are into Computer Science and software engineering.
+
 ​	All the tasks were challenging, but rewarding and interesting at the same time. Long hours spent trying to figure them out does add up and after a while I definitely felt much more comfortable while handling the code. Loved studying in Harvard for a whole month !
